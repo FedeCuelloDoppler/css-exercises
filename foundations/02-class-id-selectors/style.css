@@ -1,0 +1,19 @@
+.paragraph{
+    background-color: #f8aeae;
+    font: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.third{
+    font-size: 24px;
+}
+
+#d1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#d2{
+    background-color: #75be75;
+    font-size: 24px;
+    font-weight: bold;
+}
